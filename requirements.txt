@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+numpy
+load_model
+scikit-learn
+keras
+pad_sequences
